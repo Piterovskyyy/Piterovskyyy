@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I'm studying **Computer Science** at **Silesian University of Technology** - Gliwice<br>👀 I’m interested in **football, tennis**  <br>🔭 I’m currently working on **LM_ML** (https://lm-u-ml.vercel.app) (email:test123@gmail.com password:test1234)<br>🔭 I’m currently working on **sudoku** (https://sudoku-rosy.vercel.app)<br>🌱 I’m currently learning **ASP.NET**<br>📫 How to reach me **jakub.piotrowski666@gmail.com**
+🏫 I'm studying **Computer Science** at **Silesian University of Technology** - Gliwice<br>👀 I’m interested in **football, tennis**  <br>🔭 I’m currently working on **LM_ML** (https://lm-u-ml.vercel.app)<br>🔭 I’m currently working on **sudoku** (https://sudoku-rosy.vercel.app)<br>🌱 I’m currently learning **ASP.NET**<br>📫 How to reach me **jakub.piotrowski666@gmail.com**
 
 
 # 💻 Tech Stack:
