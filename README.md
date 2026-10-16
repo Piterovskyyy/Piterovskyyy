@@ -1,22 +1,86 @@
-# 💫 About Me:
-🏫 I'm studying **Computer Science** at **Silesian University of Technology** - Gliwice<br>👀 I’m interested in **football, tennis**  <br>🔭 I’m currently working on **LM_ML** (https://lm-u-ml.vercel.app)<br>🔭 I’m currently working on **sudoku** (https://sudoku-rosy.vercel.app)<br>🌱 I’m currently learning **ASP.NET**<br>📫 How to reach me **jakub.piotrowski666@gmail.com**
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Jakub Piotrowski — Full Stack Developer. TypeScript, Vue, React and Node.js." width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jakub-piotrowski-7296b12a7/">LinkedIn ↗</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:jakub.piotrowski666@gmail.com">Email ↗</a>
+  &nbsp;·&nbsp;
+  <a href="https://lm-u-ml.vercel.app/">Live app ↗</a>
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piterovskyyy&show_icons=true&locale=en&layout=compact" alt="piterovskyyy" /></p>
+I develop features at **Hypris** — Vue and Canvas interfaces, Node.js APIs, **BullMQ/Redis** jobs, **WebSockets**, collaborative editing and **AI/MCP** integrations. Outside work, I build with **React and TypeScript**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piterovskyyy&show_icons=true&locale=en" alt="piterovskyyy" /></p>
+## Tech stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piterovskyyy&" alt="piterovskyyy" /></p>
+**Frontend**
+
+<p>
+  <img src="./assets/stack/typescript.svg" alt="TypeScript" title="TypeScript" width="68" height="80" />
+  <img src="./assets/stack/vue.svg" alt="Vue 3" title="Vue 3" width="68" height="80" />
+  <img src="./assets/stack/react.svg" alt="React" title="React" width="68" height="80" />
+  <img src="./assets/stack/nextjs.svg" alt="Next.js" title="Next.js — project experience" width="68" height="80" />
+  <img src="./assets/stack/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" width="68" height="80" />
+  <img src="./assets/stack/pinia.svg" alt="Pinia" title="Pinia" width="68" height="80" />
+  <img src="./assets/stack/redux.svg" alt="Redux Toolkit" title="Redux Toolkit" width="68" height="80" />
+  <img src="./assets/stack/tanstack-query.svg" alt="TanStack Query" title="TanStack Query — queries, mutations and cache" width="68" height="80" />
+</p>
+
+**Backend & data**
+
+<p>
+  <img src="./assets/stack/nodejs.svg" alt="Node.js" title="Node.js" width="68" height="80" />
+  <img src="./assets/stack/express.svg" alt="Express" title="Express" width="68" height="80" />
+  <img src="./assets/stack/mongodb.svg" alt="MongoDB" title="MongoDB" width="68" height="80" />
+  <img src="./assets/stack/mongoose.svg" alt="Mongoose" title="Mongoose" width="68" height="80" />
+  <img src="./assets/stack/postgresql.svg" alt="PostgreSQL" title="PostgreSQL — project experience" width="68" height="80" />
+  <img src="./assets/stack/redis.svg" alt="Redis" title="Redis" width="68" height="80" />
+  <img src="./assets/stack/bullmq-label.svg" alt="BullMQ" title="Background jobs and scheduling" width="68" height="80" />
+  <img src="./assets/stack/firebase.svg" alt="Firebase" title="Firebase" width="68" height="80" />
+  <img src="./assets/stack/zod.svg" alt="Zod" title="Zod — runtime validation" width="68" height="80" />
+</p>
+
+**Real time · AI · apps**
+
+<p>
+  <img src="./assets/stack/socketio.svg" alt="Socket.IO" title="Socket.IO / WebSockets" width="68" height="80" />
+  <img src="./assets/stack/tiptap-label.svg" alt="TipTap" title="Document editing" width="68" height="80" />
+  <img src="./assets/stack/yjs-label.svg" alt="Yjs" title="Collaborative state and CRDTs" width="68" height="80" />
+  <img src="./assets/stack/hocuspocus-label.svg" alt="Hocuspocus" title="Collaborative document backend" width="68" height="80" />
+  <img src="./assets/stack/livekit-label.svg" alt="LiveKit" title="Audio, video and screen sharing" width="68" height="80" />
+  <img src="./assets/stack/langchain.svg" alt="LangChain" title="LangChain" width="68" height="80" />
+  <img src="./assets/stack/mcp-label.svg" alt="MCP" title="Model Context Protocol tools" width="68" height="80" />
+  <img src="./assets/stack/electron.svg" alt="Electron" title="Electron" width="68" height="80" />
+  <img src="./assets/stack/capacitor.svg" alt="Capacitor" title="Capacitor" width="68" height="80" />
+</p>
+
+<details>
+<summary><b>More tools &amp; libraries</b></summary>
+
+**UI & data:** VueUse · Vue Router · React Router · Axios · Framer Motion<br>
+**Visualization:** Canvas 2D · Chart.js · Mapbox<br>
+**Build & tools:** Git · Vite · Docker · GitHub Actions<br>
+**Testing & observability:** Vitest · Jest · Playwright · Sentry · Prometheus
+
+</details>
+
+## Selected work
+
+### [LM-U-Ml ↗](https://lm-u-ml.vercel.app/)
+
+**Live app · Active users** — Football predictions, live rankings and server-side scoring with React, Redux Toolkit and Firebase.
+
+### [Supervisor Selection System ↗](https://github.com/Piterovskyyy/supervisor-selection-system)
+
+**React / FastAPI / PostgreSQL** — Supervisor selection with role-based workflows, preference drafts, allocation rounds, PDF/XLSX reports and notifications.
+
+### [Free Events ↗](https://github.com/Piterovskyyy/free-events)
+
+**React / Spring Boot / MongoDB** — Event discovery, registrations, PDF/QR tickets, Firebase uploads and multipart APIs.
+
+[Also: Frontend Notifications ↗](https://github.com/Piterovskyyy/frontend-notifications) · React/Redux architecture, optimistic updates and cursor pagination with a mock API.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=piterovskyyy&icon=5&color=12)](https://visitcount.itsvg.in)
 
-
-
-
-
-
-
+Gliwice, Poland · Computer Science at Silesian University of Technology · Football & tennis

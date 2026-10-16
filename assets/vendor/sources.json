@@ -1,0 +1,139 @@
+{
+  "skillIconsRevision": "7f7e691e71aec64e8354bf697835e009d1ad80f8",
+  "deviconRevision": "6a37858047b0e8d9c9c0e68f4a071fc410652e89",
+  "simpleIconsRevision": "4d29a35c954699b389a834aacc97dd6e7e74143c",
+  "sources": [
+    {
+      "filename": "typescript.svg",
+      "label": "TypeScript",
+      "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/TypeScript.svg"
+    },
+    {
+      "filename": "vue.svg",
+      "label": "Vue 3",
+      "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/VueJS-Dark.svg"
+    },
+    {
+      "filename": "react.svg",
+      "label": "React",
+      "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/React-Dark.svg"
+    },
+    {
+      "filename": "nextjs.svg",
+      "label": "Next.js",
+      "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/NextJS-Dark.svg"
+    },
+    {
+      "filename": "tailwind.svg",
+      "label": "Tailwind CSS",
+      "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/TailwindCSS-Dark.svg"
+    },
+    {
+      "filename": "pinia.svg",
+      "label": "Pinia",
+      "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Pinia-Dark.svg"
+    },
+    {
+      "filename": "redux.svg",
+      "label": "Redux Toolkit",
+      "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Redux.svg"
+    },
+    {
+      "filename": "nodejs.svg",
+      "label": "Node.js",
+      "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/NodeJS-Dark.svg"
+    },
+    {
+      "filename": "express.svg",
+      "label": "Express",
+      "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/ExpressJS-Dark.svg"
+    },
+    {
+      "filename": "mongodb.svg",
+      "label": "MongoDB",
+      "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/MongoDB.svg"
+    },
+    {
+      "filename": "redis.svg",
+      "label": "Redis",
+      "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Redis-Dark.svg"
+    },
+    {
+      "filename": "postgresql.svg",
+      "label": "PostgreSQL",
+      "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/PostgreSQL-Dark.svg"
+    },
+    {
+      "filename": "electron.svg",
+      "label": "Electron",
+      "source": "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Electron.svg"
+    },
+    {
+      "filename": "firebase.svg",
+      "label": "Firebase",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/firebase/firebase-original.svg"
+    },
+    {
+      "filename": "socketio.svg",
+      "label": "Socket.IO",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/socketio/socketio-original.svg"
+    },
+    {
+      "filename": "capacitor.svg",
+      "label": "Capacitor",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/capacitor/capacitor-original.svg"
+    },
+    {
+      "filename": "langchain.svg",
+      "label": "LangChain",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/4d29a35c954699b389a834aacc97dd6e7e74143c/icons/langchain.svg"
+    },
+    {
+      "filename": "tanstack-query.svg",
+      "label": "TanStack Query",
+      "source": "https://raw.githubusercontent.com/TanStack/query/ee47993724e5b71e65d9f38ae416367d2dd18395/media/emblem-light.svg"
+    },
+    {
+      "filename": "mongoose.svg",
+      "label": "Mongoose",
+      "source": "https://raw.githubusercontent.com/devicons/devicon/6a37858047b0e8d9c9c0e68f4a071fc410652e89/icons/mongoose/mongoose-original.svg"
+    },
+    {
+      "filename": "zod.svg",
+      "label": "Zod",
+      "source": "https://raw.githubusercontent.com/simple-icons/simple-icons/4d29a35c954699b389a834aacc97dd6e7e74143c/icons/zod.svg"
+    }
+  ],
+  "originalPictograms": [
+    {
+      "filename": "bullmq-label.svg",
+      "label": "BullMQ",
+      "description": "Original generic pictogram and text label; not an official brand logo."
+    },
+    {
+      "filename": "tiptap-label.svg",
+      "label": "TipTap",
+      "description": "Original generic pictogram and text label; not an official brand logo."
+    },
+    {
+      "filename": "yjs-label.svg",
+      "label": "Yjs",
+      "description": "Original generic pictogram and text label; not an official brand logo."
+    },
+    {
+      "filename": "hocuspocus-label.svg",
+      "label": "Hocuspocus",
+      "description": "Original generic pictogram and text label; not an official brand logo."
+    },
+    {
+      "filename": "livekit-label.svg",
+      "label": "LiveKit",
+      "description": "Original generic pictogram and text label; not an official brand logo."
+    },
+    {
+      "filename": "mcp-label.svg",
+      "label": "MCP",
+      "description": "Original generic pictogram and text label; not an official brand logo."
+    }
+  ]
+}

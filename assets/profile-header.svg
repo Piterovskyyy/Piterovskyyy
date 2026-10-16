@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Jakub Piotrowski — Full Stack Developer</title>
+  <desc id="desc">TypeScript, Vue, React and Node.js. Interfaces, APIs, background jobs and real-time features.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111D2C"/>
+      <stop offset="1" stop-color="#102D35"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1036" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6DE4C2"/>
+      <stop offset="1" stop-color="#6DE4C2" stop-opacity="0.08"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="310" rx="20" fill="url(#background)"/>
+  <path d="M762 0V310M834 0V310M906 0V310M978 0V310M1050 0V310M1122 0V310M690 59H1200M690 131H1200M690 203H1200M690 275H1200" stroke="#B8E8DD" stroke-opacity="0.035"/>
+  <rect x="48" y="42" width="7" height="21" rx="3.5" fill="#6DE4C2"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="70" y="58" fill="#9BB8BF" font-size="13" font-weight="600" letter-spacing="2.8">INTERFACES · SYSTEMS · REAL TIME</text>
+    <text x="48" y="124" fill="#F2F8FA" font-size="49" font-weight="700" letter-spacing="-1.8">Jakub Piotrowski</text>
+    <text x="50" y="165" fill="#6DE4C2" font-size="26" font-weight="500">Full Stack Developer</text>
+    <path d="M50 190H674" stroke="url(#line)"/>
+    <text x="50" y="224" fill="#D5E4E8" font-size="18">TypeScript</text>
+    <circle cx="158" cy="218" r="2" fill="#678C93"/>
+    <text x="175" y="224" fill="#D5E4E8" font-size="18">Vue</text>
+    <circle cx="225" cy="218" r="2" fill="#678C93"/>
+    <text x="242" y="224" fill="#D5E4E8" font-size="18">React</text>
+    <circle cx="310" cy="218" r="2" fill="#678C93"/>
+    <text x="327" y="224" fill="#D5E4E8" font-size="18">Node.js</text>
+    <text x="50" y="269" fill="#86A5AE" font-size="14">Gliwice, Poland</text>
+    <rect x="790" y="48" width="354" height="214" rx="14" fill="#0D202A" fill-opacity="0.8" stroke="#50787F" stroke-opacity="0.5"/>
+    <circle cx="811" cy="69" r="3" fill="#6DE4C2"/>
+    <circle cx="824" cy="69" r="3" fill="#40616A"/>
+    <circle cx="837" cy="69" r="3" fill="#40616A"/>
+    <text x="1119" y="73" text-anchor="end" fill="#7B9DA7" font-size="11" letter-spacing="1.6">FULL STACK</text>
+    <path d="M791 87H1143" stroke="#50787F" stroke-opacity="0.3"/>
+    <path d="M822 120V222M822 120H844M822 171H844M822 222H844" stroke="#36585F" stroke-width="1.5"/>
+    <circle cx="822" cy="120" r="4" fill="#6DE4C2"/>
+    <circle cx="822" cy="171" r="4" fill="#6DE4C2"/>
+    <circle cx="822" cy="222" r="4" fill="#6DE4C2"/>
+    <text x="858" y="118" fill="#E4EEF1" font-size="16" font-weight="600">Interfaces</text>
+    <text x="858" y="136" fill="#7D9EA7" font-size="12">Vue · React · Canvas</text>
+    <text x="858" y="169" fill="#E4EEF1" font-size="16" font-weight="600">APIs &amp; data</text>
+    <text x="858" y="187" fill="#7D9EA7" font-size="12">Node.js · MongoDB</text>
+    <text x="858" y="220" fill="#E4EEF1" font-size="16" font-weight="600">Jobs &amp; live updates</text>
+    <text x="858" y="238" fill="#7D9EA7" font-size="12">BullMQ · Redis · WebSockets</text>
+  </g>
+</svg>
